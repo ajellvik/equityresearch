@@ -71,3 +71,4 @@ This website can be deployed to various platforms:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details
+# equityresearch
